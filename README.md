@@ -38,8 +38,7 @@
     ```bash
     mvn clean install
     
-
-   This will download the dependencies and compile the project.
+This will download the dependencies and compile the project.
 
  5. Run the application:
 
