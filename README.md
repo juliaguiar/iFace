@@ -38,9 +38,10 @@
     ```bash
     mvn clean install
     
+
    This will download the dependencies and compile the project.
 
- 4. Run the application:
+ 5. Run the application:
 
     ```bash
     java -cp target/iface-0.0.1-SNAPSHOT.jar br.com.ufal.ic.iface.view.Login
