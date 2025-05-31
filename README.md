@@ -19,7 +19,7 @@
 
 ## Project Structure
 
-- `model/` – Domain classes (User, Message, Community, etc.)  
+- `model/` – Domain classes (User, Comment, Community, etc.)  
 - `controller/` – Business logic and user actions  
 - `view/` – Terminal interface  
 - `dao/` – Simple data handling (in-memory)  
@@ -38,7 +38,7 @@
     ```bash
     mvn clean install
     
-This will download the dependencies and compile the project.
+   This will download the dependencies and compile the project.
 
  4. Run the application:
 
